@@ -7,7 +7,7 @@ git log
 git show
 git diff
 
-working directory
+working directory	
 staging area
 git repository
 
