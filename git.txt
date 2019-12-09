@@ -11,5 +11,20 @@ working directory
 staging area
 git repository
 
-git checkout
+git checkout --<file>
 git reset
+
+git checkout -b <branch> (branching) "Tao branch"
+git checkout <branch> "Di chuyen giua cac branch"
+ git merge
+	A <--- B
+	git checkout A
+	git merge B
+git branch -D (delete a branch) 
+
+git reset --soft <to commit>
+git reset --mixed <to commit>
+git reset --hard <to commit>
+
+git revert <commit>
+
