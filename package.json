@@ -1,7 +1,7 @@
 {
-  "name": "commit-1",
+  "name": "1-commit",
   "version": "1.0.0",
-  "description": "Ha Nguyen hai Dang\r Bui Thi Phuong",
+  "description": "This project is just a demo how to use git",
   "main": "Cat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^3.0.0"
+    "chalk": "^2.4.1"
   }
 }
